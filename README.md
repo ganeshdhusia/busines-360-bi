@@ -88,4 +88,6 @@ Supply Chain Efficiency: Improved FCA% segments show better demand planning; red
 Executive Decision Support: Leaders can track performance across all departments and identify strategic focus areas for profitability improvement.
 
 6. Screenshots / Demos
-Dashboard.-![Alt text].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/Screenshot%202025-12-04%20190218.png)
+1-Dashboard.-![Alt text].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/Screenshot%202025-12-04%20190218.png)
+
+2-supplychain.-![Alt text].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png)
