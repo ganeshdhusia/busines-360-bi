@@ -1,4 +1,4 @@
-# busines-360-bi
+# Business Insight-360-bi
 Power bi dashboard
 
 1. Project Title / Headline
