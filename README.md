@@ -91,3 +91,4 @@ Executive Decision Support: Leaders can track performance across all departments
 1-Dashboard.-![Alt text].(Screenshot 2025-12-04 190218.png)
 
 2-supplychain.-![Alt text].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png)
+![image alt].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png)
