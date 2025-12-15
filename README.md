@@ -92,7 +92,8 @@ Executive Decision Support: Leaders can track performance across all departments
 
 Dashboard Gif-
 
-7.## Screenshots
+7.## Screenshots![Video Pppp](https://github.com/user-attachments/assets/4ba1851e-91b0-48dd-b8da-b1043d54426c)
+
 1-Home Dashboard.![image alt](https://github.com/ganeshdhusia/busines-360-bi/blob/main/Screenshot%202025-12-04%20190218.png)
 
 2-supplychain
