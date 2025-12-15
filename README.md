@@ -9,29 +9,35 @@ A complete 360° analytics dashboard built to track business performance and sup
 
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
 • 📝 Data Modeling – Relationships established among tables (date, fact sales, customer, product tables) to enable cross-filtering and aggregation.
+
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 4. Data Source
 The dataset used in this project was provided by my instructor as part of a guided learning project. It includes sample business data for practice and educational purposes.
 
 5. Features / Highlights
+
 ✅ Key Questions Addressed by the Dashboard
 
-How are Net Sales, Gross Margin, and Net Profit trending over the last four years?
+1-How are Net Sales, Gross Margin, and Net Profit trending over the last four years?
 
-Which customers and products contribute the most and least to sales performance?
+2-Which customers and products contribute the most and least to sales performance?
 
-Which marketing categories/segments are performing well, and which need improvement?
+3-Which marketing categories/segments are performing well, and which need improvement?
 
-How accurate is the supply chain forecast, and what is the financial impact of forecast errors?
+4-How accurate is the supply chain forecast, and what is the financial impact of forecast errors?
 
-Which regions, customers, and segments are driving overall business growth?
+5-Which regions, customers, and segments are driving overall business growth?
 
-Why is net profit declining despite strong revenue and market share growth?
+6-Why is net profit declining despite strong revenue and market share growth?
 
 🎯 Goal of the Dashboard
 
