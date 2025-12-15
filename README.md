@@ -90,10 +90,9 @@ Executive Decision Support: Leaders can track performance across all departments
 6.## Interactive Dashboard
 [**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTdkODY4OWQtOGUwMi00YTUyLTk2MTktNDBjNTVjYWVmODc3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-6. Screenshots / Demos
-1-Dashboard.![image alt](https://github.com/ganeshdhusia/busines-360-bi/blob/main/Screenshot%202025-12-04%20190218.png)
+7.## Screenshots
+1-Home Dashboard.![image alt](https://github.com/ganeshdhusia/busines-360-bi/blob/main/Screenshot%202025-12-04%20190218.png)
 
-2-supplychain.-![Alt text].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png)
-![image alt].(https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png).
+2-supplychain
 
 ![image alt](https://github.com/ganeshdhusia/busines-360-bi/blob/main/supply%20view.png)
